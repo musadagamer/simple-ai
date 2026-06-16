@@ -2,7 +2,7 @@
   "name": "Simple AI",
   "short_name": "Simple AI",
   "description": "A local-first AI chat app powered by Ollama.",
-  "start_url": "./index.html",
+  "start_url": "/repo/"
   "scope": "./",
   "display": "standalone",
   "background_color": "#0f1216",
